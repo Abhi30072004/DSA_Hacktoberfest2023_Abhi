@@ -37,7 +37,7 @@ int main() {
 	            }else if(s[i-1]=='0'){
 	                if(s[i-3]=='1' && s[i-2]=='0'){
 	                    count=(count*1)%m;
-	                    // Operation could be &
+	                    // Operation could be &jnojkdslpflpdfo[d[flod][f]]
 	                }if(s[i-3]=='0' && s[i-2]=='1'){
 	                    count=(count*1)%m;
 	                    // Operation could be &
